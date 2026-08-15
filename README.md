@@ -105,3 +105,5 @@ In the [.github/workflows/cron.yml](/.github/workflows/cron.yml) file you can up
 The Liquidator bot's relayer account needs to be stocked with ETH (to pay gas fees for transactions) and WETH to liquidate. We recommend keeping less than $100 in value on the relayer at a time in case your private key were to get compromised.
 
 <!-- bot activated -->
+
+<!-- run with weth -->
